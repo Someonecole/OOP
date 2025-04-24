@@ -1,0 +1,14 @@
+/Users/SvetObu/OOP shit/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7
+/Users/SvetObu/OOP shit/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.deps.json
+/Users/SvetObu/OOP shit/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.runtimeconfig.json
+/Users/SvetObu/OOP shit/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.dll
+/Users/SvetObu/OOP shit/ConsoleApp7/bin/Debug/net8.0/ConsoleApp7.pdb
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.AssemblyInfoInputs.cache
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.AssemblyInfo.cs
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.csproj.CoreCompileInputs.cache
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.dll
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/refint/ConsoleApp7.dll
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.pdb
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ConsoleApp7.genruntimeconfig.cache
+/Users/SvetObu/OOP shit/ConsoleApp7/obj/Debug/net8.0/ref/ConsoleApp7.dll
